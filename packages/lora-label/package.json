@@ -1,6 +1,6 @@
 {
   "name": "lora-label",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "LoRA 训练文本标签辅助工具 / LoRA Training Text Labeling Aid",
   "bin": {
     "start": "./dist/lora-label.esm-bundler.mjs"
