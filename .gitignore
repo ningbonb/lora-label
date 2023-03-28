@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules
+
+# IDE
+.idea/
+.code/
+.vscode/
+
+# local
+dist
+temp
+coverage
+.eslintcache
+test

@@ -1,0 +1,31 @@
+{
+  "name": "lora-label",
+  "version": "0.3.0",
+  "description": "LoRA 训练文本标签辅助工具 / LoRA Training Text Labeling Aid",
+  "bin": {
+    "start": "./dist/lora-label.esm-bundler.mjs"
+  },
+  "files": [
+    "dist"
+  ],
+  "buildOptions": {
+    "name": "lora-label",
+    "formats": [
+      "esm-bundler"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ningbonb/lora-label.git"
+  },
+  "keywords": [],
+  "author": "NingBo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ningbonb/lora-label/issues"
+  },
+  "homepage": "https://github.com/ningbonb/lora-label#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}
